@@ -1,7 +1,7 @@
 # remote-cmd
 Warning! *I am not responsible for anything you do with this tool*
 
-To start the remote cmd you need to open the remote-cmd.pyw file
+To start the remote cmd you need to open the *remote-cmd.pyw* file
 
 
 Then you paste the ip address of a friend that gave you premision :)
