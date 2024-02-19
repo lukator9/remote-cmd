@@ -15,3 +15,7 @@ The command I tested was "start chrome" and it worked and other commands should 
 
 Have fun and remember.... dont put za ketchup on shawarma
 ---------------------------------------------------------------------------------------------------------------
+
+
+
+![Snímka obrazovky 2024-02-19 182903](https://github.com/lukator9/remote-cmd/assets/147842592/b8281d2c-e4b3-4877-adad-07f37a6f14e9)
